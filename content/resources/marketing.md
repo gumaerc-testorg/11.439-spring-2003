@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a1ad4dd3-6d55-4a0d-de4e-652ee432038e
 resourcetype: Other
 title: marketing.xls
 uid: b43f93f6-ac0c-ffff-a5ef-a40002bf3ead

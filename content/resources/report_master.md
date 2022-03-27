@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1b939335-29ca-86fe-6f77-0d4b8305733d
 resourcetype: Document
 title: report_master.pdf
 uid: 29e4f61c-a04d-05cb-3ab2-931bdc1c7cc0

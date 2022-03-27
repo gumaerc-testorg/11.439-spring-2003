@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a1ad4dd3-6d55-4a0d-de4e-652ee432038e
 resourcetype: Document
 title: field_trip.pdf
 uid: 6e4a7a61-14f0-8871-e76b-4ff8f30711a3
