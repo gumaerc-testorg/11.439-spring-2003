@@ -5,6 +5,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-squa
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readings.pdf
 uid: 7ccc5b70-5a47-563c-6716-9203406532fb
 ---
 This handout provides a list of the course reading assignments.
-

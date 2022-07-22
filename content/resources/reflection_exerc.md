@@ -5,6 +5,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-squa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reflection_exerc.pdf
 uid: cd5d95d9-da4c-5262-4394-8ea2b0a37e24
 ---
 Final class exercise.
-

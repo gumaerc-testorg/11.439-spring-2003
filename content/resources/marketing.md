@@ -5,6 +5,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-squa
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: marketing.xls
 uid: b43f93f6-ac0c-ffff-a5ef-a40002bf3ead
 ---
 Supporting spreadsheet.
-
