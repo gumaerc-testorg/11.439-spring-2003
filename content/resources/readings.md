@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout provides a list of the course reading assignments.
 file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/7ccc5b705a47563c67169203406532fb_readings.pdf
+file_size: 143352
 file_type: application/pdf
 learning_resource_types:
 - Readings
