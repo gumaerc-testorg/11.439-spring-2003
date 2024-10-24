@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and questions for student team assignments.
-file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/6e4a7a6114f08871e76b4ff8f30711a3_field_trip.pdf
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/6e4a7a6114f08871e76b4ff8f30711a3_field_trip.pdf
 file_size: 103993
 file_type: application/pdf
 learning_resource_types:
