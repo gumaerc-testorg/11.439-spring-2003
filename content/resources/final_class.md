@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/8c41470df0a688c234ed92c5d625e294_final_class.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/8c41470df0a688c234ed92c5d625e294_final_class.pdf
 file_size: 51910
 file_type: application/pdf
 learning_resource_types:
