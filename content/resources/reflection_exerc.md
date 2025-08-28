@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final class exercise.
-file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/cd5d95d9da4c526243948ea2b0a37e24_reflection_exerc.pdf
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/cd5d95d9da4c526243948ea2b0a37e24_reflection_exerc.pdf
 file_size: 44304
 file_type: application/pdf
 learning_resource_types:
